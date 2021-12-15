@@ -1,0 +1,10 @@
+*.pyc
+*.log
+maeasam_project/logs
+maeasam_project/export_deliverables
+maeasam_project/cantaloupe/*
+maeasam_project/media/packages
+maeasam_project/uploadedfiles/*
+maeasam_project/settings_local.py
+.vscode/
+CACHE

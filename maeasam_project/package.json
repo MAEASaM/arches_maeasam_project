@@ -1,0 +1,6 @@
+{
+    "name": "maeasam_project",
+    "dependencies": {
+        "arches": "archesproject/arches#stable/6.0.0"
+    }
+}
