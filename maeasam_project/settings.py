@@ -254,6 +254,7 @@ LANGUAGES = [
 #   ('de', _('German')),
    ('en', _('English')),
    ('fr', _('French')),
+   ('ar', _('Arabic')),
 #   ('es', _('Spanish')),
 ]
 
