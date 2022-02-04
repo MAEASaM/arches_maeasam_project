@@ -257,6 +257,7 @@ LANGUAGES = [
    ('ar', _('Arabic')),
    ('sw', _('Swahili')),
    ('sn', _('Shona')),
+   ('tn', _('Tswana')),
 #   ('es', _('Spanish')),
 ]
 
