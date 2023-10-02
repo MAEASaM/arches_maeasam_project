@@ -1,1 +1,24 @@
 
+# MAEASAM Resource Model Update: September - October 2023
+
+## Overview
+
+This repository contains the latest update for the MAEASAM Resource Model, covering the period of September to October 2023.
+
+## Update Highlights
+
+
+## How to Access
+
+To access the MAEASAM Resource Model and explore the updates in detail:
+
+1. **Clone the Repository**:
+    ```
+    git clone "Paste Link here "
+    ```
+
+## Feedback and Contributions
+
+Thank you for your continued collaboration and dedication to optimizing our resource management processes.
+
+
